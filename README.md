@@ -15,6 +15,8 @@ unobtrusively integrated into any application or framework that supports
 
 ## Usage
 
+This fork is to allow access to Xero's Partner API, not jut their public API.
+
 #### Configure Strategy
 
     passport.use(new XeroStrategy({
