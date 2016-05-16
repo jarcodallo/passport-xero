@@ -30,8 +30,7 @@
     }
   ],
   "main": "./lib",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "1.x.x",
     "chai": "1.x.x",
