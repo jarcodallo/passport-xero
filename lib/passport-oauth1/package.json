@@ -30,11 +30,7 @@
     }
   ],
   "main": "./lib",
-  "dependencies": {
-    "passport-strategy": "1.x.x",
-    "oauth": "0.9.x",
-    "utils-merge": "1.x.x"
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "1.x.x",
     "chai": "1.x.x",
