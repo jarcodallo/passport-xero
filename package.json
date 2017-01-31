@@ -1,6 +1,6 @@
 {
   "name": "passport-xero",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Xero authentication strategy for Passport.",
   "keywords": [
     "passport",
